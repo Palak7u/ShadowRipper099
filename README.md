@@ -19,7 +19,7 @@
 
 # ➡️ Contact
 
-**Report issue [GitHub issues](https://github.com/ShadowHacker099/ShadowRipper099/issues)
+**Report issue [GitHub issues](https://github.com/gadget1234566/ShadowRipper099/issues)
 Or Contact for help**
 
 **[YouTube Channel](https://youtube.com/@ShadowHacker099)**
